@@ -143,7 +143,7 @@ export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 Recargamos el archivo `~./bashrc` para que los efectos tengan validez
 
 ```sh
-source ~./bashrc
+source ~/.bashrc
 ```
 
 Comprobamos que Go esta instalado
