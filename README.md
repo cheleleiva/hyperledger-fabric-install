@@ -176,7 +176,7 @@ curl -sSL http://bit.ly/2ysbOFE | bash -s -- 1.4.0 1.4.0
 Ingresamos a la carpeta `fabric-samples`
 
 ```sh
-cd first-network
+cd fabric-samples/first-network
 ```
 ---
 ## Ejemplo First Network
